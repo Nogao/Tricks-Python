@@ -1,0 +1,2 @@
+# Tricks-Python
+Just entertainment 👀
