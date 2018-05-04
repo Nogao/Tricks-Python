@@ -8,7 +8,7 @@ If you want to see how it works:
 Open it on your IDE (Atom or Sublim text)
 
 ## 2️⃣BANG
-Now if you are on Atom read this, if you are on Sublim Text scroll (I talk about it after)
+Now if you are on Atom, read this, if you are on Sublim Text, scroll (I talk about it after)
 
 
 
@@ -19,7 +19,7 @@ Windows: Alt + Shift + P
 
 Write: View installed packages
 
-Now, on left click on "+ Install"
+Now, on left, click on "+ Install"
 Write: 'Script'
 Install it
 
